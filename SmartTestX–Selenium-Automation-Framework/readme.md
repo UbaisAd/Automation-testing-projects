@@ -80,4 +80,4 @@ Install the following before running the project:
 # Clone Repository
 
 ```bash
-git clone https://github.com/your-username/SmartXFramework.git
+gh repo clone UbaisAd/Automation-testing-projects
